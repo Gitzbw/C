@@ -1,0 +1,5 @@
+﻿  test 7.28.c
+C:\Users\Administrator\Desktop\vs2019代码库\test 7.28\test 7.28.c(103,11): warning C4013: “cmp”未定义；假设外部返回 int
+C:\Users\Administrator\Desktop\vs2019代码库\test 7.28\test 7.28.c(113,15): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\Administrator\Desktop\vs2019代码库\test 7.28\test 7.28.c(121,1): warning C4047: “初始化”:“Stu *”与“Stu (*)[3]”的间接级别不同
+  test 7.28.vcxproj -> C:\Users\Administrator\Desktop\vs2019代码库\test 7.28\Debug\test 7.28.exe
