@@ -1,0 +1,6 @@
+﻿  test 8.16.c
+C:\Users\zbw\Desktop\vs2019\test 8.16\test 8.16.c(131,8): warning C4013: “strcpy”未定义；假设外部返回 int
+C:\Users\zbw\Desktop\vs2019\test 8.16\test 8.16.c(134,19): warning C4013: “strtok”未定义；假设外部返回 int
+C:\Users\zbw\Desktop\vs2019\test 8.16\test 8.16.c(134,28): warning C4047: “=”:“char *”与“int”的间接级别不同
+C:\Users\zbw\Desktop\vs2019\test 8.16\test 8.16.c(134,61): warning C4047: “=”:“char *”与“int”的间接级别不同
+  test 8.16.vcxproj -> C:\Users\zbw\Desktop\vs2019\test 8.16\Debug\test 8.16.exe
