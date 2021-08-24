@@ -1,0 +1,3 @@
+﻿  oj10.c
+C:\Users\admin\Desktop\vs2019代码库\oj10 8.24（）\oj10.c(13,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  oj10 8.24（）.vcxproj -> C:\Users\admin\Desktop\vs2019代码库\oj10 8.24（）\Debug\oj10 8.24（）.exe
