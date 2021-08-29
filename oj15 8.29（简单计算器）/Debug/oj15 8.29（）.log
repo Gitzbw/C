@@ -1,0 +1,4 @@
+﻿  oj15.c
+C:\Users\admin\Desktop\vs2019代码库\oj15 8.29（）\oj15.c(9,16): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\admin\Desktop\vs2019代码库\oj15 8.29（）\oj15.c(8,1): warning C4244: “初始化”: 从“double”转换到“char”，可能丢失数据
+  oj15 8.29（）.vcxproj -> C:\Users\admin\Desktop\vs2019代码库\oj15 8.29（）\Debug\oj15 8.29（）.exe
