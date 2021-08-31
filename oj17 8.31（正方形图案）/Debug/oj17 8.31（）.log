@@ -1,0 +1,5 @@
+﻿  oj17.c
+C:\Users\admin\Desktop\vs2019代码库\oj17 8.31（）\oj17.c(10,23): error C2036: “void *”: 未知的大小
+C:\Users\admin\Desktop\vs2019代码库\oj17 8.31（）\oj17.c(8,1): warning C4047: “初始化”:“void *”与“int”的间接级别不同
+C:\Users\admin\Desktop\vs2019代码库\oj17 8.31（）\oj17.c(9,1): warning C4047: “初始化”:“void *”与“int”的间接级别不同
+C:\Users\admin\Desktop\vs2019代码库\oj17 8.31（）\oj17.c(10,1): warning C4047: “初始化”:“void *”与“int”的间接级别不同
