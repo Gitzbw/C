@@ -1,0 +1,4 @@
+﻿  单链表.c
+C:\Users\admin\Desktop\vs2019代码库\单链表 9.21\单链表.c(28,1): warning C4047: “初始化”:“Node_t *”与“int”的间接级别不同
+C:\Users\admin\Desktop\vs2019代码库\单链表 9.21\单链表.c(16): warning C4716: “AllocNode”: 必须返回一个值
+  单链表 9.21.vcxproj -> C:\Users\admin\Desktop\vs2019代码库\单链表 9.21\Debug\单链表 9.21.exe
