@@ -1,0 +1,4 @@
+﻿  test 12.10.c
+C:\Users\admin\Desktop\vs2019Code\testcode\test 12.10\test 12.10.c(43,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\admin\Desktop\vs2019Code\testcode\test 12.10\test 12.10.c(44,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test 12.10.vcxproj -> C:\Users\admin\Desktop\vs2019Code\testcode\test 12.10\Debug\test 12.10.exe
